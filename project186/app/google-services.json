@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "291715610462",
+    "firebase_url": "https://congostore2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "congostore2",
+    "storage_bucket": "congostore2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291715610462:android:c608c45ff9597a59a1c1cf",
+        "android_client_info": {
+          "package_name": "com.example.congostore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS9wAyCdNUTn678_9V7Bdxmjkh1UtOlSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291715610462:android:2c8b2173b30b6575a1c1cf",
+        "android_client_info": {
+          "package_name": "com.example.mycongostore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS9wAyCdNUTn678_9V7Bdxmjkh1UtOlSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
